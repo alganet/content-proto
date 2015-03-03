@@ -17,17 +17,17 @@
     },
     "autoload": {
         "psr-4": {
-            "Supercluster\\Gravity\\": "src"
+            "Supercluster\\Content\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Supercluster\\Gravity\\Test\\": "tests"
+            "Supercluster\\Content\\Test\\": "tests"
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.1-dev"
+            "dev-master": "1.0-dev"
         }
     },
     "bin": ["bin/gravity"],
